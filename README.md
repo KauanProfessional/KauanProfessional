@@ -1,6 +1,11 @@
 # Olá eu sou o Kauan 👋
 
-💻 Código | 🎨 Design | 🎬 Edição 
+## 📊 GitHub Stats
+
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanProfessional&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanProfessional&layout=compact&theme=tokyonight)
+
+# 💻 Código | 🎨 Design | 🎬 Edição 
 Sou estudante de Sistemas de Informação e estou sempre
 aprendendo alguma coisa nova.
 
@@ -26,4 +31,13 @@ Git • GitHub • VS Code
 # 🎨 Criação
 DaVinci Resolve • Krita • Photopea
 
+## 🎮 Um pouco sobre mim
 
+Além de programação, gosto de:
+
+🎮 Jogar  
+🎬 Editar vídeos  
+🎨 Desenhar  
+🖥️ Mexer com Linux  
+🎵 Ouvir música  
+🧩 Criar projetos aleatórios que provavelmente não precisava criar
